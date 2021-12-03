@@ -1,0 +1,8 @@
+canvas{
+    background-color: black;
+    border: dotted gold;
+    box-shadow: 5px, 5px, 5px, white;
+}
+body {
+    background-size: cover;
+}
